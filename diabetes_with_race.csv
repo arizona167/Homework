@@ -1,0 +1,500 @@
+,gender,age,hypertension,heart_disease,smoking_history,bmi,HbA1c_level,blood_glucose_level,diabetes,race
+0,Female,80.0,0,1,never,25.19,6.6,140,0,Caucasian
+1,Female,54.0,0,0,No Info,27.32,6.6,80,0,Other
+2,Male,28.0,0,0,never,27.32,5.7,158,0,Asian
+3,Female,36.0,0,0,current,23.45,5.0,155,0,Caucasian
+4,Male,76.0,1,1,current,20.14,4.8,155,0,Asian
+5,Female,20.0,0,0,never,27.32,6.6,85,0,Other
+6,Female,44.0,0,0,never,19.31,6.5,200,1,Caucasian
+7,Female,79.0,0,0,No Info,23.86,5.7,85,0,African American
+8,Male,42.0,0,0,never,33.64,4.8,145,0,Caucasian
+9,Female,32.0,0,0,never,27.32,5.0,100,0,Other
+10,Female,53.0,0,0,never,27.32,6.1,85,0,African American
+11,Female,54.0,0,0,former,54.7,6.0,100,0,Caucasian
+12,Female,78.0,0,0,former,36.05,5.0,130,0,Other
+13,Female,67.0,0,0,never,25.69,5.8,200,0,African American
+14,Female,76.0,0,0,No Info,27.32,5.0,160,0,African American
+15,Male,78.0,0,0,No Info,27.32,6.6,126,0,African American
+16,Male,15.0,0,0,never,30.36,6.1,200,0,African American
+17,Female,42.0,0,0,never,24.48,5.7,158,0,Asian
+18,Female,42.0,0,0,No Info,27.32,5.7,80,0,Asian
+19,Male,37.0,0,0,ever,25.72,3.5,159,0,Other
+20,Male,40.0,0,0,current,36.38,6.0,90,0,African American
+21,Male,5.0,0,0,No Info,18.8,6.2,85,0,Caucasian
+22,Female,69.0,0,0,never,21.24,4.8,85,0,African American
+23,Female,72.0,0,1,former,27.94,6.5,130,0,Asian
+24,Female,4.0,0,0,No Info,13.99,4.0,140,0,African American
+25,Male,30.0,0,0,never,33.76,6.1,126,0,Caucasian
+26,Male,67.0,0,1,not current,27.32,6.5,200,1,African American
+27,Male,40.0,0,0,former,27.85,5.8,80,0,Caucasian
+28,Male,45.0,1,0,never,26.47,4.0,158,0,African American
+29,Male,43.0,0,0,never,26.08,6.1,155,0,Other
+30,Female,53.0,0,0,No Info,31.75,4.0,200,0,African American
+31,Male,50.0,0,0,No Info,25.15,4.0,145,0,Caucasian
+32,Female,41.0,0,0,current,22.01,6.2,126,0,Other
+33,Female,20.0,0,0,never,22.19,3.5,100,0,Other
+34,Female,76.0,0,0,never,23.55,5.0,85,0,Other
+35,Male,5.0,0,0,No Info,15.1,5.8,85,0,Other
+36,Female,15.0,0,0,No Info,21.76,4.5,130,0,Caucasian
+37,Female,26.0,0,0,never,21.22,6.6,200,0,Caucasian
+38,Male,50.0,1,0,current,27.32,5.7,260,1,Caucasian
+39,Female,34.0,0,0,never,56.43,6.2,200,0,Other
+40,Male,73.0,0,0,former,25.91,9.0,160,1,Asian
+41,Male,5.0,0,0,No Info,27.32,6.6,130,0,African American
+42,Female,77.0,1,1,never,32.02,5.0,159,0,African American
+43,Female,66.0,0,0,No Info,29.3,4.8,159,0,Other
+44,Female,67.0,0,0,No Info,27.32,3.5,160,0,Asian
+45,Female,44.0,0,0,never,24.93,6.1,100,0,Other
+46,Female,29.0,0,0,never,19.95,5.0,90,0,African American
+47,Female,60.0,0,0,never,18.03,4.0,159,0,Other
+48,Female,38.0,0,0,never,28.27,6.2,155,0,African American
+49,Female,3.0,0,0,No Info,19.27,6.5,100,0,African American
+50,Male,57.0,0,0,never,27.32,6.1,155,0,Asian
+51,Female,26.0,0,0,No Info,27.32,4.0,200,0,African American
+52,Female,74.0,0,0,No Info,28.12,5.0,100,0,Caucasian
+53,Female,53.0,0,0,former,27.32,7.0,159,1,Caucasian
+54,Female,45.0,1,0,never,23.05,4.8,130,0,Caucasian
+55,Male,50.0,0,0,former,37.16,9.0,159,1,Asian
+56,Male,30.0,0,0,No Info,27.32,6.6,140,0,Other
+57,Female,19.0,0,0,never,23.35,3.5,155,0,African American
+58,Male,46.0,0,0,No Info,24.41,5.0,140,0,African American
+59,Female,67.0,0,0,never,63.48,8.8,155,1,Caucasian
+60,Male,44.0,1,0,current,27.86,6.6,145,0,Caucasian
+61,Female,21.0,0,0,not current,26.1,5.8,140,0,Caucasian
+62,Female,30.0,0,0,current,27.32,6.5,158,0,Other
+63,Female,59.0,0,0,former,27.32,6.0,159,0,Caucasian
+64,Female,27.0,0,0,not current,30.22,5.7,100,0,Asian
+65,Female,59.0,0,1,ever,23.11,6.5,200,0,African American
+66,Female,19.0,0,0,not current,27.32,5.7,145,0,African American
+67,Female,13.0,0,0,No Info,28.16,5.0,90,0,Caucasian
+68,Male,56.0,0,0,never,26.78,4.8,200,0,Caucasian
+69,Male,2.0,0,0,No Info,23.04,5.7,160,0,Caucasian
+70,Male,7.0,0,0,No Info,15.94,5.8,158,0,Asian
+71,Male,3.0,0,0,No Info,15.8,6.2,90,0,Asian
+72,Female,30.0,0,0,never,27.01,6.2,145,0,Asian
+73,Male,43.0,0,0,not current,27.32,3.5,126,0,African American
+74,Female,76.0,0,0,never,22.19,6.6,158,0,Asian
+75,Female,41.0,0,0,never,27.45,5.7,130,0,Other
+76,Female,11.0,0,0,No Info,17.98,6.5,159,0,Caucasian
+77,Female,26.0,0,0,never,26.45,5.7,158,0,Caucasian
+78,Male,34.0,0,0,never,31.16,5.8,90,0,African American
+79,Male,80.0,0,0,former,24.42,4.0,160,0,Other
+80,Female,37.0,0,0,No Info,30.5,5.7,159,0,African American
+81,Male,57.0,0,0,No Info,27.32,8.2,126,1,African American
+82,Female,53.0,0,0,former,26.37,4.5,200,0,African American
+83,Male,54.0,0,0,never,31.86,6.6,145,0,African American
+84,Female,37.0,0,0,No Info,21.25,6.1,200,0,African American
+85,Female,56.0,0,0,never,30.95,6.5,145,0,Asian
+86,Male,79.0,0,0,former,31.19,5.8,155,0,Caucasian
+87,Female,36.0,0,0,current,32.27,6.2,220,1,African American
+88,Female,38.0,0,0,ever,22.42,6.0,85,0,Asian
+89,Female,6.0,0,0,No Info,16.39,6.6,200,0,Caucasian
+90,Female,42.0,0,0,never,17.46,6.2,155,0,Other
+91,Female,44.0,0,0,never,37.35,5.7,145,0,Caucasian
+92,Male,54.0,0,0,former,32.85,5.0,160,0,African American
+93,Male,38.0,0,0,never,55.61,6.5,130,0,Other
+94,Female,60.0,0,0,never,27.32,7.5,300,1,Asian
+95,Male,19.0,0,0,never,27.32,6.1,80,0,Caucasian
+96,Female,67.0,0,0,never,27.32,6.2,159,1,African American
+97,Male,11.0,0,0,No Info,27.32,6.1,90,0,Other
+98,Female,30.0,0,0,No Info,50.13,6.0,100,0,Asian
+99,Male,29.0,0,0,current,27.32,4.8,158,0,Other
+100,Male,38.0,0,0,never,27.32,6.0,158,0,Caucasian
+101,Female,74.0,0,0,former,27.32,6.6,85,0,African American
+102,Male,27.0,0,0,No Info,27.32,6.2,90,0,African American
+103,Female,55.0,0,0,ever,18.6,6.0,160,0,Other
+104,Female,80.0,1,0,never,27.32,6.8,280,1,Other
+105,Female,57.0,0,0,never,24.18,5.8,130,0,Asian
+106,Female,80.0,0,0,No Info,27.32,4.8,80,0,Caucasian
+107,Female,80.0,0,0,never,37.26,4.0,140,0,Caucasian
+108,Male,40.0,0,0,No Info,27.32,4.8,200,0,Caucasian
+109,Female,9.0,0,0,No Info,19.39,6.0,130,0,Asian
+110,Female,50.0,0,0,No Info,31.21,6.2,130,0,Caucasian
+111,Female,62.0,0,0,never,21.12,5.0,126,0,Caucasian
+112,Male,37.0,0,0,No Info,27.14,3.5,90,0,Caucasian
+113,Female,47.0,0,0,never,20.6,4.0,145,0,Caucasian
+114,Female,55.0,1,0,never,34.2,5.7,140,0,Caucasian
+115,Male,28.0,0,0,never,27.63,6.2,130,0,Other
+116,Female,66.0,0,0,not current,20.3,6.1,160,0,African American
+117,Female,43.0,0,0,current,18.67,6.2,85,0,Other
+118,Female,12.0,0,0,No Info,20.9,3.5,158,0,Asian
+119,Male,68.0,1,1,current,27.32,5.0,126,0,African American
+120,Female,36.0,0,0,No Info,27.32,3.5,160,0,African American
+121,Male,27.0,0,0,No Info,20.41,6.6,159,0,Asian
+122,Female,5.0,0,0,never,16.76,5.8,160,0,Asian
+123,Male,75.0,0,0,former,27.32,6.1,100,0,Caucasian
+124,Male,7.0,0,0,No Info,15.06,6.5,130,0,Other
+125,Female,77.0,0,0,never,31.7,6.5,280,1,Other
+126,Male,79.0,1,0,No Info,28.73,6.6,160,0,Asian
+127,Female,79.0,0,0,never,25.18,5.0,130,0,Caucasian
+128,Female,22.0,0,0,never,25.77,4.0,145,0,Other
+129,Male,58.0,0,0,former,36.53,5.8,160,0,Asian
+130,Male,11.0,0,0,No Info,27.59,6.6,100,0,Other
+131,Male,40.0,0,0,No Info,27.32,6.1,158,0,Other
+132,Female,79.0,0,0,No Info,27.32,3.5,200,0,Asian
+133,Female,28.0,0,0,not current,26.79,5.8,200,0,African American
+134,Male,18.0,0,0,No Info,35.55,5.0,200,0,Asian
+135,Male,80.0,0,0,never,22.06,9.0,155,1,Other
+136,Female,47.0,0,0,never,36.49,7.5,155,1,Caucasian
+137,Female,24.0,0,0,current,25.15,6.1,155,0,Asian
+138,Female,42.0,0,0,not current,27.8,6.0,85,0,Asian
+139,Male,18.0,0,0,never,23.76,4.8,160,0,Other
+140,Female,80.0,1,0,never,44.06,6.5,160,0,Caucasian
+141,Female,34.0,0,0,never,27.32,6.0,160,0,Asian
+142,Female,80.0,0,0,former,21.97,7.0,300,1,Other
+143,Male,38.0,0,0,No Info,29.4,5.0,90,0,Caucasian
+144,Female,80.0,0,0,never,20.16,6.5,130,0,Asian
+145,Female,80.0,0,0,No Info,27.32,6.0,200,0,Asian
+146,Male,53.0,0,0,current,30.8,6.6,280,1,African American
+147,Male,34.0,0,0,No Info,24.0,5.0,85,0,Asian
+148,Female,17.0,0,0,No Info,22.95,6.5,90,0,Caucasian
+149,Female,29.0,0,0,No Info,33.22,3.5,159,0,African American
+150,Male,55.0,0,0,current,27.32,6.0,80,0,Other
+151,Female,12.0,0,0,No Info,27.93,5.7,160,0,African American
+152,Female,29.0,0,0,never,29.6,5.7,140,0,Asian
+153,Female,25.0,0,0,No Info,27.32,5.8,90,0,African American
+154,Female,67.0,0,0,never,25.15,5.8,145,0,African American
+155,Female,0.08,0,0,No Info,14.43,6.5,160,0,Other
+156,Female,54.0,0,0,ever,26.72,6.1,158,0,Asian
+157,Female,33.0,0,0,never,41.24,4.0,160,0,Asian
+158,Female,68.0,0,0,former,34.87,5.8,100,0,Asian
+159,Female,38.0,0,0,No Info,23.96,6.1,145,0,African American
+160,Female,62.0,0,0,No Info,36.27,6.5,200,0,Caucasian
+161,Female,57.0,0,0,former,29.06,6.5,130,0,African American
+162,Male,59.0,0,1,ever,30.85,5.0,126,0,Asian
+163,Male,16.0,0,0,never,17.61,6.5,158,0,Caucasian
+164,Female,21.0,0,0,No Info,27.7,3.5,159,0,Caucasian
+165,Female,15.0,0,0,never,19.21,4.5,130,0,Asian
+166,Female,33.0,0,0,No Info,22.34,5.7,100,0,Other
+167,Female,80.0,0,1,never,29.59,5.8,158,0,African American
+168,Female,46.0,0,0,former,35.44,3.5,140,0,African American
+169,Female,61.0,0,0,not current,39.36,9.0,140,1,Caucasian
+170,Female,31.0,0,0,ever,27.39,4.0,159,0,African American
+171,Male,41.0,0,0,never,27.32,4.0,159,0,Caucasian
+172,Female,34.0,0,0,No Info,27.32,6.1,126,0,Caucasian
+173,Male,8.0,0,0,No Info,27.32,6.6,155,0,African American
+174,Male,76.0,0,0,never,31.9,7.5,155,1,Caucasian
+175,Male,60.0,0,0,No Info,27.32,6.6,100,0,Other
+176,Female,49.0,0,0,never,26.61,4.8,158,0,Other
+177,Female,59.0,0,0,ever,23.08,6.1,130,0,Caucasian
+178,Male,31.0,0,0,never,25.84,3.5,158,0,African American
+179,Male,25.0,0,0,never,27.32,6.1,140,0,Caucasian
+180,Female,59.0,0,0,never,25.8,5.7,90,0,Asian
+181,Male,39.0,0,0,never,27.32,5.7,159,0,African American
+182,Female,25.0,0,0,never,26.02,4.0,160,0,Asian
+183,Male,9.0,0,0,No Info,27.32,6.5,85,0,African American
+184,Female,27.0,0,0,No Info,27.32,6.1,145,0,Asian
+185,Male,41.0,0,0,former,23.56,6.5,140,0,African American
+186,Female,29.0,0,0,never,24.65,4.5,145,0,African American
+187,Female,40.0,0,0,No Info,27.32,5.7,160,0,Asian
+188,Female,21.0,0,0,current,25.11,6.6,145,0,Caucasian
+189,Female,77.0,0,0,never,27.32,6.5,140,0,African American
+190,Male,27.0,0,0,No Info,27.32,6.0,90,0,Asian
+191,Male,65.0,0,0,not current,30.37,3.5,145,0,African American
+192,Female,56.0,0,0,never,21.54,6.0,85,0,African American
+193,Female,26.0,0,0,never,40.9,6.1,140,0,Asian
+194,Female,41.0,0,0,never,26.7,6.2,130,0,Other
+195,Female,45.0,0,0,former,42.24,6.1,130,0,Other
+196,Male,80.0,0,0,No Info,27.32,6.0,140,0,Asian
+197,Male,76.0,0,0,never,23.93,5.8,130,0,Other
+198,Female,3.0,0,0,No Info,15.48,5.7,130,0,Asian
+199,Female,43.0,0,0,never,26.71,6.5,300,1,Asian
+200,Female,20.0,0,0,never,28.25,5.8,140,0,Caucasian
+201,Female,20.0,0,0,not current,30.68,4.0,200,0,African American
+202,Female,38.0,0,0,No Info,36.96,5.7,200,0,Other
+203,Male,14.0,0,0,never,23.59,3.5,130,0,Caucasian
+204,Female,46.0,0,0,No Info,23.56,3.5,90,0,Asian
+205,Male,6.0,0,0,No Info,27.32,5.7,200,0,Caucasian
+206,Female,42.0,0,0,No Info,27.32,5.8,100,0,Caucasian
+207,Female,24.0,0,0,No Info,32.81,5.8,159,0,Caucasian
+208,Female,41.0,0,0,No Info,35.15,4.0,159,0,African American
+209,Male,38.0,0,0,not current,29.41,4.5,126,0,Caucasian
+210,Male,24.0,0,0,ever,26.72,6.2,130,0,Asian
+211,Male,21.0,0,0,No Info,22.17,4.0,80,0,Other
+212,Female,70.0,0,0,never,27.5,5.7,145,0,Asian
+213,Male,80.0,0,0,never,29.95,5.8,145,0,Other
+214,Female,29.0,0,0,No Info,26.57,3.5,200,0,Asian
+215,Male,46.0,0,0,No Info,27.32,5.0,158,0,Caucasian
+216,Male,18.0,0,0,No Info,21.78,6.0,200,0,African American
+217,Female,27.0,0,0,never,20.89,6.5,80,0,Caucasian
+218,Female,0.56,0,0,No Info,16.85,5.0,140,0,Caucasian
+219,Male,2.0,0,0,No Info,17.46,4.5,126,0,Asian
+220,Female,53.0,0,0,No Info,31.7,6.2,126,0,Caucasian
+221,Male,6.0,0,0,No Info,13.79,6.5,160,0,Asian
+222,Female,37.0,0,0,never,26.04,4.5,159,0,Asian
+223,Female,60.0,0,0,former,34.31,6.1,100,0,African American
+224,Female,14.0,0,0,never,28.22,6.2,85,0,Other
+225,Female,48.0,1,0,never,36.73,6.6,126,0,Asian
+226,Male,2.0,0,0,No Info,27.32,5.7,85,0,Asian
+227,Female,21.0,0,0,never,27.32,5.8,126,0,Caucasian
+228,Female,31.0,0,0,never,32.92,3.5,126,0,Other
+229,Female,19.0,0,0,never,21.46,6.5,155,0,Asian
+230,Male,57.0,0,0,former,29.28,6.6,160,0,Caucasian
+231,Female,16.0,0,0,No Info,21.54,6.2,130,0,Asian
+232,Female,80.0,0,0,former,27.32,6.2,145,0,Asian
+233,Male,11.0,0,0,never,17.09,6.6,126,0,Caucasian
+234,Male,51.0,0,0,never,27.32,4.8,145,0,African American
+235,Female,71.0,0,0,No Info,27.32,5.0,126,0,African American
+236,Male,55.0,0,0,No Info,27.32,6.8,159,1,Caucasian
+237,Female,19.0,0,0,No Info,27.32,3.5,130,0,African American
+238,Male,59.0,1,0,No Info,25.31,6.0,130,0,African American
+239,Female,26.0,0,0,No Info,28.89,4.8,160,0,Asian
+240,Male,18.0,0,0,No Info,31.2,4.8,126,0,Caucasian
+241,Male,0.88,0,0,No Info,17.49,6.0,140,0,Caucasian
+242,Male,57.0,1,1,not current,27.77,6.6,160,1,Caucasian
+243,Female,37.0,0,0,never,32.31,5.7,126,0,Asian
+244,Female,31.0,0,0,never,25.11,5.7,145,0,Caucasian
+245,Male,4.0,0,0,No Info,15.57,6.2,130,0,African American
+246,Male,74.0,0,0,No Info,27.32,6.0,159,0,African American
+247,Male,48.0,0,0,ever,27.32,6.6,160,0,Other
+248,Male,17.0,0,0,No Info,20.38,6.6,160,0,African American
+249,Female,59.0,0,0,never,22.35,4.8,155,0,African American
+250,Male,30.0,0,0,never,29.34,6.6,140,0,Other
+251,Male,17.0,0,0,never,24.88,5.7,158,0,African American
+252,Male,9.0,0,0,not current,20.56,5.8,200,0,Asian
+253,Female,64.0,0,0,never,27.32,6.2,155,1,Caucasian
+254,Male,63.0,1,0,ever,35.06,5.8,200,1,Caucasian
+255,Female,46.0,0,0,never,29.06,6.6,145,0,African American
+256,Female,52.0,1,0,never,21.46,4.0,80,0,Asian
+257,Male,38.0,0,0,never,29.6,5.8,155,0,Other
+258,Male,27.0,0,0,never,27.32,6.1,140,0,Caucasian
+259,Male,63.0,0,0,never,22.3,5.7,126,0,African American
+260,Female,17.0,0,0,not current,23.49,4.8,158,0,Asian
+261,Female,55.0,0,0,not current,38.08,5.7,158,0,Caucasian
+262,Male,80.0,0,0,never,23.25,6.1,159,1,Other
+263,Male,4.0,0,0,No Info,18.2,3.5,80,0,Caucasian
+264,Female,4.0,0,0,No Info,13.57,3.5,126,0,African American
+265,Female,4.0,0,0,No Info,27.32,5.0,140,0,Other
+266,Female,70.0,0,0,current,29.25,8.2,130,1,Other
+267,Female,22.0,0,0,never,24.36,3.5,158,0,Caucasian
+268,Female,0.16,0,0,No Info,12.15,6.6,100,0,African American
+269,Female,54.0,0,0,never,23.59,4.8,160,0,Asian
+270,Female,21.0,0,0,former,30.05,6.0,160,0,Caucasian
+271,Male,2.0,0,0,No Info,15.29,6.0,140,0,African American
+272,Male,69.0,0,0,No Info,26.96,6.5,155,0,Other
+273,Female,43.0,0,0,never,22.29,4.8,100,0,African American
+274,Female,58.0,0,0,never,39.3,4.8,158,0,Caucasian
+275,Female,32.0,0,0,current,32.62,5.8,85,0,Other
+276,Female,48.0,1,0,No Info,24.29,3.5,90,0,Caucasian
+277,Male,21.0,0,0,never,24.19,5.7,200,0,Other
+278,Female,59.0,1,0,never,27.4,5.7,140,0,Asian
+279,Male,14.0,0,0,No Info,21.06,6.6,160,0,African American
+280,Male,50.0,0,0,ever,25.29,6.5,155,0,Asian
+281,Male,19.0,0,0,never,21.83,6.1,155,0,Asian
+282,Male,62.0,0,0,No Info,27.32,4.0,200,0,African American
+283,Female,56.0,0,0,No Info,33.83,6.5,90,0,Caucasian
+284,Female,27.0,0,0,No Info,32.6,5.0,159,0,African American
+285,Female,38.0,0,0,never,24.3,6.0,145,0,Caucasian
+286,Female,65.0,0,0,never,23.71,6.2,85,0,Other
+287,Female,39.0,0,0,No Info,27.32,6.6,140,0,Asian
+288,Female,18.0,0,0,never,19.6,3.5,140,0,Caucasian
+289,Male,10.0,0,0,No Info,19.0,6.6,155,0,Asian
+290,Male,27.0,0,0,never,20.53,6.6,155,0,African American
+291,Male,48.0,0,0,No Info,27.32,4.8,200,0,Caucasian
+292,Female,57.0,0,0,never,25.8,3.5,130,0,Asian
+293,Female,48.0,0,0,never,20.19,7.0,145,1,Asian
+294,Male,44.0,0,0,No Info,27.07,6.1,159,0,Asian
+295,Female,48.0,0,0,No Info,30.55,6.0,85,0,Asian
+296,Female,2.0,0,0,No Info,14.69,5.0,159,0,African American
+297,Female,41.0,0,0,No Info,27.32,4.5,155,0,Other
+298,Female,50.0,0,0,No Info,27.32,6.6,85,0,African American
+299,Female,42.0,0,0,never,24.81,9.0,159,1,African American
+300,Female,66.0,0,0,never,27.32,4.0,85,0,African American
+301,Female,43.0,0,0,No Info,27.32,6.0,126,0,Caucasian
+302,Male,24.0,0,0,never,20.91,4.5,158,0,Asian
+303,Female,25.0,0,0,former,27.25,5.0,159,0,African American
+304,Male,46.0,0,0,never,31.7,6.5,100,0,Asian
+305,Female,21.0,0,0,never,36.54,5.7,100,0,Other
+306,Female,80.0,0,1,former,21.3,5.0,159,0,Caucasian
+307,Male,31.0,0,0,former,25.25,4.8,140,0,Caucasian
+308,Female,47.0,0,0,current,27.32,6.2,155,0,Caucasian
+309,Female,52.0,0,0,never,23.75,6.5,90,0,Asian
+310,Male,35.0,0,0,not current,26.4,4.0,130,0,Asian
+311,Male,50.0,0,0,never,33.36,5.8,158,0,Other
+312,Male,46.0,0,0,never,35.35,5.7,90,0,Caucasian
+313,Male,6.0,0,0,No Info,27.32,6.2,155,0,Asian
+314,Male,74.0,0,0,No Info,27.32,6.1,80,0,Other
+315,Female,61.0,0,0,former,21.43,4.8,85,0,African American
+316,Male,40.0,0,0,current,29.49,6.0,130,0,Asian
+317,Female,52.0,0,0,No Info,20.08,6.6,100,0,Caucasian
+318,Female,27.0,0,0,never,20.67,6.2,159,0,African American
+319,Male,17.0,0,0,No Info,20.16,6.0,155,0,Asian
+320,Male,43.0,0,0,never,39.46,5.8,200,0,Asian
+321,Female,80.0,0,0,former,36.18,6.5,200,1,African American
+322,Female,80.0,0,0,former,43.14,6.0,158,0,African American
+323,Female,50.0,0,0,former,21.66,4.5,126,0,African American
+324,Female,43.0,0,0,never,27.82,5.8,159,0,African American
+325,Male,17.0,0,0,never,16.96,6.2,130,0,African American
+326,Female,80.0,0,0,never,35.49,5.7,159,0,Caucasian
+327,Female,7.0,0,0,No Info,15.7,6.1,80,0,Asian
+328,Female,73.0,0,0,No Info,27.32,6.0,145,0,Other
+329,Male,61.0,0,0,No Info,27.32,6.2,130,0,Other
+330,Female,21.0,0,0,No Info,17.47,6.2,126,0,Caucasian
+331,Female,10.0,0,0,No Info,27.32,3.5,158,0,Asian
+332,Male,55.0,0,0,ever,23.88,6.1,158,0,Caucasian
+333,Male,56.0,0,0,No Info,26.35,3.5,100,0,Other
+334,Female,15.0,0,0,never,19.9,6.6,85,0,Asian
+335,Male,30.0,0,0,former,27.32,6.2,159,0,African American
+336,Male,66.0,0,0,not current,27.32,5.7,159,0,African American
+337,Male,2.0,0,0,No Info,27.32,4.8,80,0,Other
+338,Male,56.0,0,0,never,37.59,4.0,159,0,African American
+339,Male,60.0,0,0,No Info,25.4,4.0,200,0,Caucasian
+340,Male,27.0,0,0,No Info,27.32,3.5,100,0,Asian
+341,Male,54.0,0,0,No Info,30.41,5.0,158,0,Asian
+342,Female,60.0,0,0,never,27.32,4.8,158,0,Asian
+343,Female,34.0,0,0,current,37.07,5.7,140,0,African American
+344,Male,40.0,0,0,No Info,27.32,5.0,130,0,Asian
+345,Female,52.0,1,0,not current,22.48,5.0,158,0,Caucasian
+346,Female,41.0,0,0,never,26.02,5.8,80,0,Asian
+347,Male,2.0,0,0,never,24.62,4.0,155,0,Caucasian
+348,Male,65.0,0,0,current,31.88,3.5,90,0,Asian
+349,Female,80.0,0,0,never,25.15,4.8,85,0,Asian
+350,Female,52.0,1,0,never,50.3,6.6,155,1,Other
+351,Female,22.0,0,0,never,27.32,4.8,80,0,Other
+352,Male,17.0,0,0,never,44.0,6.0,145,0,Caucasian
+353,Female,32.0,0,0,current,25.21,5.0,100,0,African American
+354,Male,71.0,0,0,never,27.09,8.2,200,1,Other
+355,Female,16.0,0,0,No Info,27.32,4.8,200,0,African American
+356,Male,48.0,0,0,never,35.24,6.6,100,0,African American
+357,Male,10.0,0,0,No Info,27.32,6.1,90,0,African American
+358,Male,80.0,0,0,former,28.27,5.8,100,0,Caucasian
+359,Female,66.0,0,0,former,35.13,6.5,90,0,Asian
+360,Male,2.0,0,0,No Info,14.9,6.5,130,0,African American
+361,Male,80.0,0,1,former,24.36,7.5,280,1,Asian
+362,Female,67.0,0,0,current,26.07,4.5,145,0,Asian
+363,Male,10.0,0,0,No Info,23.9,6.1,160,0,African American
+364,Male,27.0,0,0,never,24.78,6.2,159,0,Caucasian
+365,Male,33.0,0,0,No Info,30.71,6.0,160,0,Caucasian
+366,Male,80.0,0,1,No Info,32.37,6.6,80,0,Other
+367,Female,49.0,0,0,current,24.34,5.7,80,0,Asian
+368,Female,60.0,0,0,never,26.39,4.5,158,0,Asian
+369,Female,27.0,0,0,never,25.46,6.1,100,0,African American
+370,Male,59.0,0,0,current,29.2,8.2,220,1,African American
+371,Male,33.0,0,0,never,28.37,6.6,85,0,Caucasian
+372,Female,56.0,0,0,not current,26.62,3.5,160,0,Caucasian
+373,Female,42.0,1,0,never,39.29,6.6,159,0,African American
+374,Female,60.0,1,0,current,48.02,6.0,85,0,Caucasian
+375,Female,55.0,1,0,never,32.2,6.0,140,0,Asian
+376,Female,22.0,0,0,not current,20.53,5.8,159,0,African American
+377,Female,22.0,0,0,never,27.32,4.5,159,0,Other
+378,Female,29.0,0,0,No Info,51.76,4.0,90,0,Asian
+379,Male,6.0,0,0,No Info,22.6,6.1,130,0,African American
+380,Male,80.0,0,1,former,15.65,6.5,145,0,Asian
+381,Female,20.0,0,0,No Info,24.03,6.1,159,0,African American
+382,Female,71.0,0,0,ever,25.15,4.5,85,0,Caucasian
+383,Female,80.0,0,0,No Info,27.32,4.8,145,0,Other
+384,Male,28.0,0,0,never,32.61,4.8,100,0,Other
+385,Female,43.0,0,0,No Info,27.32,4.8,160,0,Other
+386,Female,53.0,0,0,former,36.3,5.8,126,0,Other
+387,Female,4.0,0,0,never,17.1,6.5,158,0,Other
+388,Male,75.0,0,0,never,19.9,5.0,85,0,Asian
+389,Female,52.0,0,0,never,27.32,4.0,159,0,Asian
+390,Male,68.0,0,0,current,19.47,4.8,160,0,Other
+391,Female,61.0,0,0,never,31.57,5.7,155,0,Asian
+392,Male,29.0,0,0,current,25.41,6.1,130,1,Other
+393,Female,62.0,0,0,never,27.32,5.8,100,0,African American
+394,Male,26.0,0,0,current,22.43,6.6,160,0,African American
+395,Female,15.0,0,0,No Info,20.98,5.0,155,0,African American
+396,Male,0.16,0,0,No Info,14.35,6.5,126,0,Caucasian
+397,Male,9.0,0,0,never,17.13,3.5,100,0,African American
+398,Female,50.0,0,0,current,24.02,6.1,100,0,Asian
+399,Female,76.0,0,0,No Info,27.32,6.2,160,0,Other
+400,Female,59.0,0,0,No Info,33.26,6.1,159,0,Other
+401,Male,9.0,0,0,No Info,17.68,4.5,130,0,Asian
+402,Female,27.0,0,0,never,26.25,5.7,100,0,Other
+403,Female,46.0,0,0,No Info,16.59,4.8,145,0,Asian
+404,Male,6.0,0,0,No Info,20.12,5.7,160,0,Asian
+405,Male,66.0,1,0,former,31.28,3.5,80,0,African American
+406,Male,77.0,1,0,never,26.32,5.8,90,0,African American
+407,Male,37.0,0,0,former,37.8,4.8,130,0,African American
+408,Female,41.0,0,0,never,37.5,3.5,80,0,African American
+409,Female,80.0,1,0,ever,29.08,6.2,145,0,Caucasian
+410,Female,45.0,0,0,current,27.32,6.5,200,0,African American
+411,Male,17.0,0,0,No Info,38.64,6.2,145,0,Asian
+412,Female,25.0,0,0,never,25.23,5.0,155,0,Other
+413,Male,51.0,0,0,never,38.14,6.0,100,0,Other
+414,Female,68.0,0,0,No Info,40.31,7.5,260,1,Caucasian
+415,Female,65.0,0,0,ever,30.41,5.8,160,0,African American
+416,Female,19.0,0,0,No Info,22.73,6.6,159,0,African American
+417,Female,55.0,0,0,No Info,27.32,6.2,158,0,Caucasian
+418,Female,52.0,0,0,No Info,27.32,9.0,140,1,Caucasian
+419,Female,34.0,0,0,never,21.3,6.1,130,0,Asian
+420,Female,53.0,0,0,never,45.99,6.1,145,0,Other
+421,Male,3.0,0,0,No Info,27.32,3.5,155,0,African American
+422,Female,21.0,0,0,not current,27.32,6.6,80,0,Asian
+423,Male,26.0,0,0,never,27.32,6.6,100,0,Caucasian
+424,Female,46.0,0,0,current,16.02,3.5,85,0,Asian
+425,Female,23.0,0,0,No Info,24.56,3.5,155,0,Asian
+426,Male,57.0,0,0,No Info,22.83,5.8,126,0,Asian
+427,Female,64.0,0,0,former,21.04,3.5,130,0,Caucasian
+428,Female,16.0,0,0,No Info,22.66,6.6,130,0,Other
+429,Female,43.0,0,0,never,40.02,4.8,159,0,Other
+430,Female,70.0,0,0,not current,33.19,7.5,126,1,African American
+431,Male,52.0,0,0,No Info,32.31,4.5,90,0,Asian
+432,Male,42.0,0,0,No Info,27.32,5.7,160,0,African American
+433,Female,80.0,0,0,never,23.86,6.6,80,0,African American
+434,Male,63.0,0,0,former,27.32,4.0,126,0,Asian
+435,Male,6.0,0,0,never,15.9,6.2,85,0,Asian
+436,Female,69.0,0,0,former,24.22,6.2,140,0,Caucasian
+437,Male,52.0,0,0,never,27.32,5.0,159,0,Asian
+438,Male,53.0,1,0,former,22.94,6.0,126,0,Other
+439,Female,31.0,0,0,No Info,26.97,4.0,159,0,African American
+440,Male,46.0,1,0,never,30.83,4.8,200,0,Asian
+441,Female,20.0,0,0,never,21.88,5.8,155,0,Asian
+442,Female,27.0,0,0,never,22.4,6.6,155,0,Other
+443,Male,35.0,0,0,never,18.56,6.1,200,0,Asian
+444,Male,66.0,0,0,No Info,25.97,6.0,158,0,African American
+445,Female,51.0,0,0,never,43.42,5.0,159,0,Caucasian
+446,Male,6.0,0,0,No Info,17.11,5.8,90,0,Other
+447,Male,71.0,0,0,never,26.53,8.8,159,1,Caucasian
+448,Female,57.0,0,0,not current,27.32,6.0,145,0,Asian
+449,Female,4.0,0,0,never,31.53,3.5,130,0,Asian
+450,Female,15.0,0,0,never,23.44,5.8,100,0,Other
+451,Female,30.0,0,0,current,28.49,6.6,200,0,Caucasian
+452,Female,42.0,0,0,No Info,33.64,4.8,80,0,African American
+453,Female,70.0,0,0,never,26.71,4.5,159,0,Caucasian
+454,Female,58.0,0,0,not current,24.3,5.0,145,0,African American
+455,Male,47.0,0,0,former,31.79,4.5,90,0,Other
+456,Female,43.0,0,0,never,21.05,4.5,90,0,Asian
+457,Male,64.0,0,0,No Info,25.68,6.6,155,0,Asian
+458,Male,3.0,0,0,No Info,15.7,6.0,130,0,Asian
+459,Male,5.0,0,0,No Info,18.27,6.2,85,0,Caucasian
+460,Female,47.0,0,0,No Info,27.32,4.8,126,0,African American
+461,Male,14.0,0,0,No Info,21.29,4.8,158,0,Caucasian
+462,Male,3.0,0,0,never,17.97,6.6,90,0,Caucasian
+463,Female,36.0,0,0,No Info,30.73,6.2,85,0,African American
+464,Male,48.0,1,0,current,36.12,6.8,140,1,Other
+465,Female,59.0,0,0,never,35.91,6.6,90,0,African American
+466,Female,79.0,1,0,former,27.32,6.5,159,1,Other
+467,Female,70.0,0,1,not current,26.72,5.7,90,0,Other
+468,Male,57.0,0,0,ever,23.9,4.5,90,0,Caucasian
+469,Male,46.0,1,0,No Info,21.52,6.1,145,0,Caucasian
+470,Female,39.0,0,0,ever,23.65,4.5,145,0,Asian
+471,Male,37.0,0,0,never,37.24,7.0,126,1,Caucasian
+472,Male,21.0,0,0,never,28.66,6.2,80,0,African American
+473,Male,43.0,0,0,No Info,27.32,4.8,200,0,Other
+474,Female,80.0,0,0,never,25.37,4.8,159,0,Other
+475,Female,4.0,0,0,No Info,14.0,5.0,160,0,Asian
+476,Male,80.0,0,0,No Info,27.32,6.0,158,0,African American
+477,Male,46.0,0,0,never,22.38,6.0,80,0,Asian
+478,Male,80.0,0,0,former,26.4,4.8,159,0,African American
+479,Female,19.0,0,0,No Info,27.32,6.2,145,0,Other
+480,Male,0.64,0,0,No Info,16.53,4.0,158,0,Asian
+481,Female,52.0,0,0,never,22.83,6.2,145,0,African American
+482,Female,29.0,0,0,No Info,27.32,5.0,85,0,African American
+483,Female,13.0,0,0,No Info,27.32,6.5,100,0,Asian
+484,Female,54.0,0,0,never,24.1,4.8,80,0,Asian
+485,Male,15.0,0,0,No Info,19.15,6.6,200,0,Asian
+486,Female,17.0,0,0,never,19.7,5.0,200,0,Asian
+487,Female,51.0,0,0,never,23.15,6.2,200,0,African American
+488,Female,20.0,0,0,current,26.87,5.7,85,0,Asian
+489,Male,1.16,0,0,No Info,15.78,6.2,140,0,Other
+490,Female,34.0,0,0,never,23.91,6.5,80,0,African American
+491,Male,29.0,0,0,No Info,36.17,4.0,100,0,Asian
+492,Female,46.0,0,0,former,21.66,6.1,158,0,Asian
+493,Female,59.0,1,0,former,29.93,3.5,160,0,Asian
+494,Female,60.0,0,0,never,28.82,6.0,130,0,African American
+495,Male,4.0,0,0,No Info,15.64,4.8,155,0,Caucasian
+496,Male,70.0,0,0,No Info,27.32,6.5,130,0,Asian
+497,Female,80.0,0,0,never,33.2,6.6,160,0,Other
+498,Female,62.0,0,0,No Info,27.32,5.8,90,0,Other
